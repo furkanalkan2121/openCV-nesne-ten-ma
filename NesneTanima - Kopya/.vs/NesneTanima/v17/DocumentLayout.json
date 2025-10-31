@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049705FA-AF9B-4E3A-A168-294D12D4CD01}|NesneTanima\\NesneTanima.csproj|c:\\users\\mozge\\source\\repos\\nesnetanima\\nesnetanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049705FA-AF9B-4E3A-A168-294D12D4CD01}|NesneTanima\\NesneTanima.csproj|solutionrelative:nesnetanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049705FA-AF9B-4E3A-A168-294D12D4CD01}|NesneTanima\\NesneTanima.csproj|C:\\Users\\mozge\\source\\repos\\NesneTanima\\nesnetanima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049705FA-AF9B-4E3A-A168-294D12D4CD01}|NesneTanima\\NesneTanima.csproj|solutionrelative:nesnetanima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049705FA-AF9B-4E3A-A168-294D12D4CD01}|NesneTanima\\NesneTanima.csproj|C:\\Users\\mozge\\source\\repos\\NesneTanima\\nesnetanima\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049705FA-AF9B-4E3A-A168-294D12D4CD01}|NesneTanima\\NesneTanima.csproj|solutionrelative:nesnetanima\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049705FA-AF9B-4E3A-A168-294D12D4CD01}|NesneTanima\\NesneTanima.csproj|C:\\Users\\mozge\\source\\repos\\NesneTanima\\nesnetanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{049705FA-AF9B-4E3A-A168-294D12D4CD01}|NesneTanima\\NesneTanima.csproj|solutionrelative:nesnetanima\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\NesneTanima\\Form1.cs",
+              "RelativeDocumentMoniker": "NesneTanima\\Form1.cs",
+              "ToolTip": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\NesneTanima\\Form1.cs",
+              "RelativeToolTip": "NesneTanima\\Form1.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAwNQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:03:40.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\NesneTanima\\Program.cs",
+              "RelativeDocumentMoniker": "NesneTanima\\Program.cs",
+              "ToolTip": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\NesneTanima\\Program.cs",
+              "RelativeToolTip": "NesneTanima\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:35:27.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\NesneTanima\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NesneTanima\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\NesneTanima\\Form1.Designer.cs",
+              "RelativeToolTip": "NesneTanima\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:33:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\NesneTanima\\Form1.cs",
+              "RelativeDocumentMoniker": "NesneTanima\\Form1.cs",
+              "ToolTip": "C:\\Users\\mozge\\source\\repos\\NesneTanima\\NesneTanima\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "NesneTanima\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:03:21.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
